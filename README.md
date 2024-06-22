@@ -1,1 +1,3 @@
 # spatial-econometrics-modellling
+This study investigates the correlation between Boston’s nightlife and the housing prices, with an eye to provide insights for policymakers to evaluate areas of improvements in urban infrastructure, housing, and cultural dynamics that enhances Boston’s nightlife vibrancy.  We will analyse the Safegraph POI visitation data,  HomeHarvest Property data, and ACS census tracts data to understand patterns in visitation patterns that influence housing prices in Boston. The study focuses on downtown Boston neighbourhoods, considering both spatial and temporal aspects.
+
